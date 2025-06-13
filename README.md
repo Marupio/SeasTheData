@@ -1,3 +1,23 @@
+# Files
+Important files are:
+* Analysis.py - Main analysis engine
+* Context.py - Helper class for Analysis.py
+* Design.pdf - additional, optional document (this one)
+* Executive summary.pdf - 200 word limit Executive Summary
+* LICENSE - unchanged
+* Metadata.py - Helper class for Analysis.py
+* Model.py - unchanged (preserved)
+* Model_modified.py - My modifications with the SARIMAX modelling
+* Modelling.ipynb - unchanged (preserved)
+* Modelling_modified.ipynb - My modifications - (I don't think there actually are any)
+* ParseSplit.py - Helper class for Analysis.py
+* README.md - unchanged
+* Technical Summary.pdf - 500 word limit Technical Summary
+* Workbook.ipynb - Demonstrates use of Analysis Engine
+* data/ - data: csv files, figures
+
+Original README is below
+
 # Technical Test for Applied Scientist (Data Scientist)
 
 __Opportunity No. 44081__
